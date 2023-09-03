@@ -30,7 +30,6 @@ header{
     padding: 10px 30px;
     height: 3.25rem;
     width: 100%;
-    /* background-color: aqua; */
     display: flex;
     gap: 1.25rem;
     justify-content: flex-end;
