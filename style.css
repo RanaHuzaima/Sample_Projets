@@ -74,3 +74,7 @@ h2{
     font-weight: 300;
     font-size: 30px;
 }
+.section-4 a{
+    display: flex;
+    justify-content: flex-end;
+}
