@@ -44,6 +44,9 @@ nav ul li a{
     font-size: 23px;
     color: #555;
 }
+.main{
+    padding: 0px 236px;
+}
 .section-1 h1{
     font-size: 50px;
     font-weight: 800;
