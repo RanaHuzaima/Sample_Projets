@@ -44,3 +44,20 @@ nav ul li a{
     font-size: 23px;
     color: #555;
 }
+.section-1 h1{
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+img{
+    height: 90px;
+    color: #555;
+    width: 150px;
+    background-color: #555;
+    border: none;
+    border-radius: 5px;
+    margin:10px 20px 0px 0px;
+}
+h2{
+    margin: 10px 0px;
+}
