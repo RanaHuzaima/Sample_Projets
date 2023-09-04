@@ -51,7 +51,7 @@ nav ul li a{
     padding: 0px 236px;
 }
 .section-1 h1{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 500;
     margin-bottom: 30px;
 }
@@ -63,9 +63,8 @@ p{
 }
 img{
     height: 90px;
-    color: #555;
     width: 150px;
-    background-color: #555;
+    background-color: #55555575;
     border: none;
     border-radius: 5px;
     margin:0px 20px 20px 0px;
