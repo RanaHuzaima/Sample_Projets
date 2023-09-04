@@ -78,6 +78,54 @@ h2{
     display: flex;
     justify-content: flex-end;
 }
+i ul{
+    color: #555;
+}
+ul> li a{
+    font-size: 23px;
+    font-weight: 400;
+    color: #555;
+}
+#hambuger-menu{
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    width: 100vw;
+    padding: 20px;
+    background-color: aqua;
+}
+#hambuger-menu{
+    /* border: 2px solid black; */
+
+}
+#hambuger-menu>div{
+    margin: 15px 0px;
+}
+#hambuger-menu>i{
+    text-align: end;
+    font-size: 30px;
+}
 footer{
     margin-top: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .destop-bar{
+        display: none;
+    }
+    header nav{
+        display: none;
+    }
+    header{
+        padding: 0px;
+    }
+    .main{
+        padding: 0px 20px;
+    }
+    
+}
+@media screen and (min-width: 600px){
+    #hambuger-menu{
+        display: none;
+    }
 }
