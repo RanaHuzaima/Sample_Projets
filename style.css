@@ -45,9 +45,12 @@ nav ul li a{
     color: #555;
 }
 .section-1 h1{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 800;
     margin-bottom: 30px;
+}
+.section-2 p{
+    margin-bottom: 20px;
 }
 img{
     height: 90px;
@@ -56,8 +59,10 @@ img{
     background-color: #555;
     border: none;
     border-radius: 5px;
-    margin:10px 20px 0px 0px;
+    margin:10px 20px 20px 0px;
 }
 h2{
     margin: 10px 0px;
+    font-weight: 500;
+    font-size: 30px;
 }
